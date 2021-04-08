@@ -5,8 +5,8 @@ Small app to create list of groceries. You can add, delete and change status of 
 ![](demo.gif)
 
 ## Dependencies
-* **google json:** [GitHub Pages] (https://github.com/google/gson)
-* **butterknife:** [GitHub Pages] (https://github.com/JakeWharton/butterknife)
+* **google json:** (https://github.com/google/gson)
+* **butterknife:** (https://github.com/JakeWharton/butterknife)
 
 ## Getting started
 1. Clone the repo

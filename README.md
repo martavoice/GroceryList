@@ -2,7 +2,7 @@
 Small app to create list of groceries. You can add, delete and change status of items.
 
 ## Preview
-[![IMAGE ALT TEXT HERE](https://drive.google.com/file/d/1pgxMIKeDQx0J3rYNnFkqKZbAoYkd5tFG/view?usp=sharing)](https://youtu.be/Ss1Q82ooPGI)
+![](demo.gif)
 
 ## Dependencies
 * **google json:** [GitHub Pages] (https://github.com/google/gson)

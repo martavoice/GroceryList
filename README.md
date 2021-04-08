@@ -1,6 +1,17 @@
 # GroceryList
 Small app to create list of groceries. You can add, delete and change status of items.
-All data is saving only locally using shared preferences. For serializing data we using google json and for binding views - butterknife library.
-To launch app you should download the code and open it in Android studio or IntelliJ IDEA and run it on android device.
 
-You can watch small demo - https://drive.google.com/file/d/1lRQT5Ymjb7BnEKs2P2anlOBYoOTZ57tK/view?usp=sharing
+## Preview
+[![IMAGE ALT TEXT HERE](https://drive.google.com/file/d/1pgxMIKeDQx0J3rYNnFkqKZbAoYkd5tFG/view?usp=sharing)](https://youtu.be/Ss1Q82ooPGI)
+
+## Dependencies
+* **google json:** [GitHub Pages] (https://github.com/google/gson)
+* **butterknife:** [GitHub Pages] (https://github.com/JakeWharton/butterknife)
+
+## Getting started
+1. Clone the repo
+```
+ $ git clone https://github.com/martavoice/GroceryList
+ ```
+2. Open project in Android studio or IntelliJ IDEA
+3. Run on android device using your IDE's tools.

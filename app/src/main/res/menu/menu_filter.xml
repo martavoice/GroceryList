@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="@string/show_all_ran_out"
+    android:id="@+id/action_filter_by_ran_out"/>
+
+    <item
+        android:title="@string/show_all_have"
+        android:id="@+id/action_filter_by_have"/>
+
+    <item
+        android:title="@string/remove_filters"
+        android:id="@+id/action_remove_filters"/>
+</menu>

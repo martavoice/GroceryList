@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Grocery list</string>
+    <string name="delete">Delete</string>
+    <string name="priority">Priority: %d</string>
+    <string name="status">Status: %s</string>
+    <string name="change_status">Change status</string>
+    <string name="show_all_ran_out">Show all items with \"Ran out\" status</string>
+    <string name="show_all_have">Show all items with \"Have\" status</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="are_you_sure_delete">Are you sure you want to delete this item?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="are_you_sure_change_status">Are you sure you want change status to %s</string>
+    <string name="remove_filters">Remove filters</string>
+    <string name="show_history">Show history</string>
+    <string name="status_changed">Status changed to  %s</string>
+    <string name="hide_history">Hide history</string>
+    <string name="add_item">Add item</string>
+    <string name="enter_name">Enter name</string>
+    <string name="select_priority">Select priority</string>
+    <string name="select_status">Select status</string>
+    <string name="create_item">Create item</string>
+    <string name="error_name_cannot_be_empty">Name cannot be empty</string>
+    <string name="item_details">Item details</string>
+    <string name="history">Changes history</string>
+</resources>
